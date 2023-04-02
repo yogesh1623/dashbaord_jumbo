@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/dashbaord_jumbo/static/css/main.6efccfe7.css",
+    "main.js": "/dashbaord_jumbo/static/js/main.dc6b791e.js",
+    "static/js/787.545aecf5.chunk.js": "/dashbaord_jumbo/static/js/787.545aecf5.chunk.js",
+    "static/media/watch.jpg": "/dashbaord_jumbo/static/media/watch.92ae9c1d0c8aa73d1730.jpg",
+    "static/media/logoImg.png": "/dashbaord_jumbo/static/media/logoImg.71b4c9918e821073f0df.png",
+    "static/media/lamp.jpg": "/dashbaord_jumbo/static/media/lamp.043c97afbffe4b2f89cf.jpg",
+    "static/media/bulbs.jpg": "/dashbaord_jumbo/static/media/bulbs.af0e7489ae83bc5d0459.jpg",
+    "index.html": "/dashbaord_jumbo/index.html",
+    "main.6efccfe7.css.map": "/dashbaord_jumbo/static/css/main.6efccfe7.css.map",
+    "main.dc6b791e.js.map": "/dashbaord_jumbo/static/js/main.dc6b791e.js.map",
+    "787.545aecf5.chunk.js.map": "/dashbaord_jumbo/static/js/787.545aecf5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6efccfe7.css",
+    "static/js/main.dc6b791e.js"
+  ]
+}
